@@ -6,7 +6,7 @@ a student of neuroscience
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT0BKr4MvHdohFTe6s/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/xT0BKr4MvHdohFTe6s/giphy.gif" width="300"/>
 </div>
 
 

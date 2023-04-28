@@ -6,10 +6,8 @@ a student of neuroscience
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT0BKr4MvHdohFTe6s/giphy.gif" width="300"/>
-</div>
-
-
+  <img src="https://www.zklsmr.com/assets/img/New%20Project.jpg" width="2000">
+</div> 
 
 <div id="badges" align="center">
 
@@ -25,11 +23,11 @@ a student of neuroscience
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-</div>
+<!-- </div>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<div>
+<div> -->
 
 
 <!--
@@ -38,5 +36,5 @@ a student of neuroscience
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zklsmr&hide=html,css&langs_count=3&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zklsmr&count_private=true)
---/!>
+--!>
 

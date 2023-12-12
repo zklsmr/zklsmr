@@ -32,8 +32,8 @@ a student of neuroscience
 
 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zklsmr&hide=html,css&langs_count=3&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zklsmr&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zklsmr&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zklsmr&count_private=true&rank_icon=percentile&show_icons=true&include_all_commits=false&show=prs_merged)
 
 

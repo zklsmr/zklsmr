@@ -6,7 +6,7 @@ a student of neuroscience
 </h1>
 
 <div id="header" align="center">
-  <img src="https://www.zklsmr.com/assets/img/New%20Project.jpg" width="2000">
+  <img src="https://github.com/zklsmr/zklsmr/blob/main/New%20Project%20(1).jpg" width="2000">
 </div> 
 
 <div id="badges" align="center">

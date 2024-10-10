@@ -5,9 +5,9 @@ Hello! My name is Zaki,
 a student of neuroscience 
 </h1>
 
-<div id="header" align="center">
+<!--- <div id="header" align="center">
   <img src="https://github.com/zklsmr/zklsmr/blob/main/New%20Project%20(1).jpg" width="2000">
-</div> 
+</div> -->
 
 <div id="badges" align="center">
 
